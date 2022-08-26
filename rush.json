@@ -473,5 +473,10 @@
     //   "reviewCategory": "tools",
     //   "tags": ["tools"]
     // }
+    {
+      "packageName": "@m1heng/changelog-schema-test",
+      "projectFolder": "packages/changelog-schema-test",
+      "shouldPublish": true
+    }
   ]
 }

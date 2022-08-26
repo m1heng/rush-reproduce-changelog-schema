@@ -1,0 +1,10 @@
+{
+  "changes": [
+    {
+      "packageName": "@m1heng/changelog-schema-test",
+      "comment": "add pkg",
+      "type": "major"
+    }
+  ],
+  "packageName": "@m1heng/changelog-schema-test"
+}
